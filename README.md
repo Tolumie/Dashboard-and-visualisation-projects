@@ -1,8 +1,3 @@
-# Dashboard-and-visualisation-projects
-
-Here’s a structured **README** file for your **Dashboards & Visualization** repository, incorporating details from the files you provided:  
-
----
 
 # 📊 **Dashboards & Data Visualization**  
 
